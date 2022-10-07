@@ -102,6 +102,7 @@ nav h1 {
     color: var(--color-red);
     border-radius: 12px;
     margin: 20px 0;
+    text-align: center;
 }
 
 footer {
